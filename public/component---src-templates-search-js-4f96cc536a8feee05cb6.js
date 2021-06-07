@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[830],{5619:function(e,t,a){"use strict";a.r(t);var n=a(7294),r=a(6910);t.default=function(e){var t=e.pageContext;return n.createElement(r.Z,null,n.createElement("div",{className:"container"},n.createElement("h1",{dangerouslySetInnerHTML:{__html:t.title}})))}}}]);
+//# sourceMappingURL=component---src-templates-search-js-4f96cc536a8feee05cb6.js.map
