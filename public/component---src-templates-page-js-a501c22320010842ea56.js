@@ -1,2 +1,0 @@
-(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[565],{4755:function(e,t,a){"use strict";a.r(t);var n=a(7294),l=a(1715),r=a(3441);t.default=function(e){var t=e.pageContext;return n.createElement(l.ZP,{page:t.template.templateName},n.createElement(r.Z,{title:t.title}),n.createElement("div",{className:"container"},n.createElement("h1",{dangerouslySetInnerHTML:{__html:t.title}}),n.createElement("div",{dangerouslySetInnerHTML:{__html:t.content}})))}}}]);
-//# sourceMappingURL=component---src-templates-page-js-a501c22320010842ea56.js.map

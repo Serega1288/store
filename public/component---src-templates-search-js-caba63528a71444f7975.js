@@ -1,2 +1,0 @@
-(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[830],{5619:function(e,t,a){"use strict";a.r(t);var r=a(7294),n=a(242);t.default=function(e){var t=e.pageContext;return r.createElement(n.ZP,{page:"search"},r.createElement("div",{className:"container"},r.createElement("h1",{dangerouslySetInnerHTML:{__html:t.title}})))}}}]);
-//# sourceMappingURL=component---src-templates-search-js-caba63528a71444f7975.js.map
