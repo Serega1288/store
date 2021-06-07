@@ -98,6 +98,6 @@ export default ({item}) => {
                 </div>
             </div>
         </div>
-
+ 
     )
 }
