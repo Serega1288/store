@@ -70,7 +70,7 @@ return (
             <div className="product-box-price row">
                 <div className="col">
                     <p className="title-price">Розница:</p>
-                    {<div className="box-price" dangerouslySetInnerHTML={{__html: pageContext.variations.nodes[0].price}} />}
+                    {<div className="box-price" dangerouslySetInnerHTML={{__html: pageContext.variations?.nodes[0]?.price}} />}
                 </div>
                 <div className="col">
 
