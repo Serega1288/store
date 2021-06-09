@@ -28,7 +28,7 @@ function Accordion(name) {
 
 export default ({pageContext}) => {
 
-    const [count, setCount] = useState(pageContext.variations.nodes.map(i=> 0))
+    const [count, setCount] = useState(pageContext.variations?.nodes?.map(i=> 0))
     console.log(pageContext)
 
 
